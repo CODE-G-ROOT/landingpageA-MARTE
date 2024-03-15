@@ -1,0 +1,11 @@
+.header-container {
+  padding: 0 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(255, 230, 0);
+}
+
+.h11{
+  font-size: 20px;
+}
